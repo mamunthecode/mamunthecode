@@ -1,16 +1,44 @@
 ## Hi there 👋
 
-<!--
-**mamunthecode/mamunthecode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Mamun  
 
-Here are some ideas to get you started:
+Front-End Developer | WordPress | Webflow | Squarespace Expert
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Passionate about building responsive, user-friendly, and visually appealing websites.  
+💡 I blend creativity with clean code to craft engaging digital experiences.  
+
+---
+
+## 🛠 Skills & Technologies  
+- **Frontend:** HTML5, CSS3, JavaScript (Basic)  
+- **CMS Platforms:** WordPress, Webflow, Squarespace  
+- **Design Skills:** Responsive Web Design, UI/UX Basics  
+- **Tools:** Git, GitHub, VS Code, Figma  
+
+---
+
+## 💼 What I Do  
+- ✅ Responsive WordPress Design & Development
+- ✅ Webflow design & animations  
+- ✅ Squarespace customization & setup  
+- ✅ Pixel-perfect responsive websites  
+- ✅ Landing pages & portfolio sites
+- ✅ E-commerce website design & Development
+
+---
+
+
+|My portfolio showcasing my work  View - https://mdmamuntalukder.com/
+
+
+---
+
+## 📫 Let's Connect  
+- Email:mamun.webdeveloper9@gmail.com
+- LinkedIn: https://www.linkedin.com/in/mdmamuntalukder/
+- Portfolio:https://mdmamuntalukder.com/
+
+---
+
+⭐ _"Clean Code, Creative Design, Seamless Experience"_  
+
